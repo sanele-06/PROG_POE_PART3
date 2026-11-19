@@ -1,4 +1,3 @@
-//commit 6- full final report 
 package com.mycompany.prog_poe_part1;
 import java.util.*;
 
