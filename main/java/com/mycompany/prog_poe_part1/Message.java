@@ -1,3 +1,4 @@
+//commit 2 - longest message logic 
 package com.mycompany.prog_poe_part1;
 import java.util.*;
 
