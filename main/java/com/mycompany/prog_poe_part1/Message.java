@@ -1,4 +1,4 @@
-//commit 4- search by ID 
+//commit 5- Delete by hash  
 package com.mycompany.prog_poe_part1;
 import java.util.*;
 
