@@ -1,4 +1,4 @@
-//commit 2 - longest message logic 
+//commit 3 - search by recipient 
 package com.mycompany.prog_poe_part1;
 import java.util.*;
 
